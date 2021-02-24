@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004724678296",
+    "project_id": "wealthydemo-fa454",
+    "storage_bucket": "wealthydemo-fa454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004724678296:android:2de57f82b057f706dcaaed",
+        "android_client_info": {
+          "package_name": "com.example.wealthy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004724678296-uv689m947ut1i58t8e6385gvmecvam99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDOdpEkR40Ahh-LUKk6dKV9ZTUwUuu2gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004724678296-uv689m947ut1i58t8e6385gvmecvam99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
